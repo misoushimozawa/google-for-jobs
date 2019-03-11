@@ -1,0 +1,296 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org/",
+  "@type": "JobPosting",
+  "title": "職種1_1",
+  "description": "職種1_1<br/><br/>アピール　主婦　日払い<br/><br/>仕事の特徴：<br/>未経験OK、未経験OK、学生歓迎、新卒・第二新卒OK、複数名募集、主婦歓迎、エルダー歓迎、シニア歓迎、扶養控除内、ブランクOK、OAスキル不要、交通費別途支給、派遣先公開、紹介予定派遣、Word・Excelが活かせる、PowerPointが活かせる、Accessが活かせる、WEB関連のスキルが活かせる、DTPのスキルが活かせる、CADのスキルが活かせる、プログラム関連のスキルが活かせる、ネットワーク関連のスキルが活かせる、英語力を活かせる、英語力不要、その他外国語を活かせる、接客スキルを活かせる、営業スキルを活かせる、10時以降出社OK、16時前退社OK、17時以降出社OK、1日7時間未満勤務、週5日フルタイム勤務、週4日以内勤務OK、土日祝のみ勤務、ダブルワーク可能、残業なし、残業20時間未満、残業20時間以上、大手企業、外資系企業、公的機関・学校関連、マスコミ関連、女性が多い、男性が多い、駅から徒歩5分以内、車通勤可、社員食堂あり、託児施設あり、仮眠室あり、オフィスが禁煙、オフィスが分煙、制服あり、服装自由、化粧室がキレイ<br/><br/>給与：<br/>時給 1円以上<br/><br/>勤務地：<br/>京浜東北線 蕨駅<br/><br/>勤務時間：<br/>８：４５～１７：３０　※昼休み４５分<br/><br/>勤務曜日：<br/>土・日<br/><br/>仕事内容：<br/>～経理システムのＷｅｂ化再構築のお仕事です～<br/>★ＡＳＰ．ＮＥＴ　ＶＢ．ＮＥＴでの開発になります。<br />★ＳＱＬ　Ｓｅｒｖｅｒ環境での開発業務です。<br/><br/>応募資格：<br/>●ＡＳＰ．ＮＥＴまたはＶＢ．ＮＥＴでの開発経験のある方。<br/>●ＳＱＬ　Ｓｅｒｖｅｒでの開発経験のある方。<br/><br/>勤務先詳細：<br/>概要：テスト<br/>社員数：20人<br/>配属先：テスト<br/>男女比：男性60 : 女性40<br/>",
+  "datePosted": "2018-02-16",
+  "validThrough": "2018-12-31",
+  "employmentType": "FULL_TIME",
+  "industry": "オフィスワーク系",
+  "workHours": "８：４５～１７：３０　※昼休み４５分",
+  "url": "http://172.20.2.2:8989/h_user/jsp/jobDetail?EJN=91199",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "株式会社アイル（新橋オフィス）",
+    "logo": "http://172.20.2.2:8989/h_user/img/val-logo.gif"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "addressLocality": "中央区",
+      "addressRegion": "東京都",
+      "addressCountry": "JP"
+    }
+  },
+  "baseSalary": {
+    "@type": "MonetaryAmount",
+    "currency": "JPY",
+    "value": {
+      "@type": "QuantitativeValue",
+      "value": "800",
+      "unitText": "HOUR"
+    }
+  },
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "仕事NO",
+    "value": "seo-test-18021678"
+  }
+}
+</script>
+
+
+
+<!DOCTYPE html>
+<html lang="ja" itemscope itemtype="http://schema.org/WebSite">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+    <meta name="robots" content="INDEX,FOLLOW,NOODP,NOYDIR,NOARCHIVE">
+    <meta name="format-detection" content="telephone=no">
+    <meta itemprop="url" content="https://www.misou.co.jp">
+    <title>採用エントリーフォーム | 未創システム株式会社</title>
+    <meta name="description" content="未創システムへの採用エントリーはこちらから。想いを共有し、実現に向けて一緒に進んでくれる人、夢のあるエンジニアを募集中です。" />
+    <meta name="keywords" content="未創システム株式会社, 未創システム, misou system, misou, 採用エントリー, 採用, フォーム" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="未創システム株式会社" />
+    <meta property="og:locale" content="ja_JP" />
+    <meta property="og:image" content="https://www.misou.co.jp/images/hero_images_01.jpg" />
+    <meta property="og:url" content="https://www.misou.co.jp/recruit-form/" />
+    <meta property="og:title" content="採用エントリーフォーム | 未創システム株式会社" />
+    <meta property="og:description" content="未創システムへの採用エントリーはこちらから。想いを共有し、実現に向けて一緒に進んでくれる人、夢のあるエンジニアを募集中です。" />
+    <link href="../images/favicon.ico" rel="icon" type="image/vnd.microsoft.icon">
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="../css/custom.css">
+    <!--[if IE 9]>
+        <script>document.getElementsByTagName("html")[0].className += "ie ie9";</script>
+        <![endif]-->
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-T634RPB');</script>
+    <!-- End Google Tag Manager -->
+  </head>
+  <body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T634RPB"
+                      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <div id="wrapper">
+      <header id="header" class="js-fix-header">
+        <div class="header-wrap">
+          <div class="header-container">
+            <div class="row">
+              <div class="header-title">
+                <h1 class="header-logo"><a href="/"><img src="../images/logo.png" alt="未創システム"></a></h1>
+                <p class="header-description">未来を創造する。未創システム株式会社</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <nav class="global-navi js-fix-nav">
+          <div class="global-navi-wrap">
+            <div class="navbar-header">
+              <button type="button" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar" class="navbar-toggle collapsed"><span class="text-menu">MENU</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="/service">業務内容</a></li>
+                <li><a href="/case">開発事例</a></li>
+                <li><a href="/corporate">企業情報</a></li>
+                <li><a href="/recruit">採用情報</a></li>
+                <li class="contact-btn"><a href="/contact"><i aria-hidden="true" class="fa fa-envelope-o"></i>無料相談・お問い合わせはこちら</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+      </header>
+      <div style="background: url('../images/hero_recruit.jpg') no-repeat center center;background-size: cover;" class="hero">
+        <div class="hero-wrap">
+          <h1 class="hero-title">採用エントリーフォーム</h1>
+          <p class="hero-sub-title">ENTRY</p>
+        </div>
+      </div>
+      <nav class="breadcrumb">
+        <div class="breadcrumb-wrap">
+          <ol itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+            <li><a href="/" itemprop="url"><span itemprop="title"><i aria-hidden="true" class="fa fa-home"></i>HOME</span></a></li>
+            <li><a href="/recruit" itemprop="url"><span itemprop="title">採用情報</span></a></li>
+            <li>採用エントリーフォーム</li>
+          </ol>
+        </div>
+      </nav>
+      <section class="content">
+        <div class="content-wrap">
+          <div class="row">
+            <main class="entry-content contact" id="contact">
+              <h2 class="text-center">あなたと一緒に、未来を創造する。<br>想いを共有し、実現に向けて一緒に進んでくれる人、夢のあるエンジニアを募集中。</h2>
+              <p class="text-center">項目はすべて入力をお願いします。<br>お電話でのお問い合わせは、<a href="tel:03-6803-0052">03-6803-0052</a>までお願いします。</p>
+                            <form class="form-horizontal" id="contact_form" name="contactform" role="form" method="post" action="index.php" novalidate>
+                <div class="contact-form">
+                  <div class="form-group">
+                    <div class="contact-form-label">
+                      <label for="name" class="control-label required">名前</label><span>最大100文字</span>
+                    </div>
+                    <div class="contact-form-input">
+                      <input type="text" name="recruit_data[name]" id="name" class="form-control" value="">
+                      <div id="name_err_req"  class="formErrorContent">* 必須項目です</div>
+                      <div id="name_err_full" class="formErrorContent">* 名前を全角でご入力ください</div>
+                      <div id="name_err_len"  class="formErrorContent">* 名前を100文字以下でご入力ください</div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="contact-form-label">
+                      <label for="kana" class="control-label">フリガナ</label><span>最大100文字</span>
+                    </div>
+                    <div class="contact-form-input">
+                      <input type="text" name="recruit_data[kana]" id="kana" class="form-control" value="">
+                      <div id="kana_err_req"  class="formErrorContent">* 必須項目です</div>
+                      <div id="kana_err_full" class="formErrorContent">* フリガナを全角でご入力ください</div>
+                      <div id="kana_err_for" class="formErrorContent">* フリガナをカタカナでご入力ください</div>
+                      <div id="kana_err_len"  class="formErrorContent">* フリガナを100文字以下でご入力ください</div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="contact-form-label">
+                      <label for="mail" class="control-label required">メールアドレス</label><span>最大50文字</span>
+                    </div>
+                    <div class="contact-form-input">
+                      <input type="email" name="recruit_data[email]" id="mail" class="form-control" value="">
+                      <div id="mail_err_req"  class="formErrorContent">* 必須項目です</div>
+                      <div id="mail_err_len"  class="formErrorContent">* メールアドレスを50文字以下でご入力ください</div>
+                      <div id="mail_err_for"  class="formErrorContent">* メールアドレスの書式が不正です</div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="contact-form-label">
+                      <label for="Remail" class="control-label">メールアドレス(確認)</label>
+                    </div>
+                    <div class="contact-form-input">
+                      <input type="email" id="Remail" name="recruit_data[email_re]" class="form-control" value="">
+                      <div id="remail_err_req"  class="formErrorContent">* 必須項目です</div>
+                      <div id="remail_err_equ"  class="formErrorContent">* メールアドレスと同じ値をご入力ください</div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="contact-form-label">
+                      <label for="tell" class="control-label">電話番号</label><span>最小9文字、最大13文字</span>
+                    </div>
+                    <div class="contact-form-input">
+                      <input type="tel" name="recruit_data[tell]" id="tell" class="form-control" value="">
+                      <div id="tell_err_req"  class="formErrorContent">* 必須項目です</div>
+                      <div id="tell_err_len"  class="formErrorContent">* 電話番号を9文字以上、13文字以下でご入力ください</div>
+                      <div id="tell_err_for"  class="formErrorContent">* 電話番号の書式が不正です</div>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <div class="contact-form-label">
+                      <label for="contact" class="control-label required">志望理由</label><span>最大500文字</span>
+                    </div>
+                    <div class="contact-form-input">
+                      <textarea cols="30" rows="10"  name="recruit_data[message]" id="message" class="form-control"></textarea>
+                      <div id="message_err_req"  class="formErrorContent">* 必須項目です</div>
+                      <div id="message_err_len"  class="formErrorContent">* 志望理由を500文字以下でご入力ください</div>
+                    </div>
+                  </div>
+                </div>
+                <div class="contact-form-submit-text">
+                  <p class="text-center">下記の「個人情報取り扱い同意書」をご覧いただき、<br>ご了承いただけましたら「個人情報の取り扱いに同意して問い合わせる」ボタンを押してください。</p>
+                </div>
+                <div class="contact-form-submit-text-box">
+                  <p>個人情報取り扱い同意書</p>
+                  <p>未創システム株式会社</p>
+                  <p>弊社はお客様の個人情報をお預かりすることになりますが、そのお預かりした個人情報の取扱について、下記のように定め、保護に努めております。</p>
+                  <p class="title">【利用目的】</p>
+                  <p>1)お問い合わせに対する回答を行うため</p>
+                  <p class="title">【第三者への提供】</p>
+                  <p>弊社は法律で定められている場合を除いて、お客様の個人情報を当該本人の同意を得ず第三者に提供することはありません。<br>その他、上記利用目的を達成するために委託する場合があります。</p>
+                  <p class="title">【個人情報の取扱い業務の委託】</p>
+                  <p>弊社は事業運営上、お客様により良いサービスを提供するために業務の一部を外部に委託しており、業務委託先に対してお客様の個人情報を預けることがあります。この場合、個人情報を適切に取り扱っていると認められる委託先を選定し、契約等において個人情報の適正管理・機密保持などによりお客様の個人情報の漏洩防止に必要な事項を取決め、適切な管理を実施させます。</p>
+                  <p class="title">【個人情報提出の任意性】</p>
+                  <p>お客様が弊社に対して個人情報を提出することは任意です。ただし、個人情報を提出されない場合には、弊社からの返信やサービスを実施ができない場合がありますので、あらかじめご了承ください。</p>
+                  <p class="title">【個人情報の開示請求等について】</p>
+                  <p>お客様には、貴殿の個人情報の利用目的の通知、開示、内容の訂正、追加又は削除、利用の停止、消去及び第三者への提供の停止を要求する権利があります。詳細につきましては下記の窓口までご連絡いただくか「<a href="/corporate/privacy-small.html" class="popup-print" target="_blank">個人情報の取り扱いについて</a>」をご確認ください。</p>
+                  <p>お問合せ先：個人情報問合せ窓口<br>TEL 03-6803-0052<br>責任者：個人情報保護管理者　総務部部長</p>
+                </div>
+                <div class="contact-form-submit">
+                  <button type="submit" name="btnSubmit" class="btn btn-contact-submit btn-block">個人情報の取扱いに同意して問い合わせる</button>
+                  <input type="hidden" name="act" value="2">
+                </div>
+              </form>
+            </main>
+          </div>
+        </div>
+      </section>
+      <div class="page-top"><span><i aria-hidden="true" class="icon icon-icon_arrow_top"></i>ページトップへ</span></div>
+      <footer>
+        <div class="footer-wrap">
+          <div class="footer-container">
+            <div class="footer-access">
+              <h1 class="footer-logo"><a href="/"><img src="../images/logo.png" alt="未創システム"></a></h1>
+              <div class="footer-info">
+                <p>未創システム株式会社</p>
+				<p>〒104-0033<br>東京都中央区新川1丁目22-11<br>茅場町イーストスクエア3Ｆ</p>
+                <p>電話：<span data-action="call" data-tel="0368030052">03-6803-0052</span></p>
+                <p>FAX：03-6803-0053</p>
+				<p>
+					最寄駅：<br>
+					■ 東京メトロ日比谷線<br>　茅場町駅徒歩6分<br>
+					■ 東京メトロ東西線<br>　茅場町駅徒歩6分<br>
+					■ ＪＲ京葉線<br>　八丁堀駅徒歩9分
+				</p>
+              </div><a href="https://goo.gl/maps/hvcuxGhoQcr" target="_blank" class="btn btn-footer btn-arrow btn-block"><i aria-hidden="true" class="fa fa-map-marker"></i>Google Mapで見る</a>
+            </div>
+            <div class="footer-nav-block col-md-offset-1 js-page-nav">
+              <ul>
+                <li><a href="/service">業務内容</a>
+                  <ul>
+                    <li><a href="/service/#service01">Web・オープン系システム</a></li>
+                    <li><a href="/service/#service02">データベース設計</a></li>
+                    <li><a href="/service/#service03">自社パッケージシステム</a></li>
+                    <li><a href="/service/#service04">基幹系システム</a></li>
+                  </ul>
+                </li>
+                <li><a href="/case">開発事例</a></li>
+              </ul>
+            </div>
+            <div class="footer-nav-block">
+              <ul>
+                <li><a href="/corporate">企業情報</a>
+                  <ul>
+                    <li><a href="/corporate/message.html">代表メッセージ</a></li>
+                    <li><a href="/corporate/profile.html">会社概要</a></li>
+                    <li><a href="/corporate/photos.html">フォトギャラリー</a></li>
+                    <li><a href="/corporate/access.html">アクセスマップ</a></li>
+                    <li><a href="/corporate/privacy.html">個人情報保護方針</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div class="footer-nav-block">
+              <ul>
+                <li><a href="/recruit">採用情報</a></li>
+                <li><a href="/contact">お問い合わせ</a></li>
+                <li><a href="/news">ニュース一覧</a></li>
+              </ul>
+            </div>
+            <div class="footer-nav-block">
+              <ul>
+                <li class="privacy"><a href="https://privacymark.jp/" target="_blank"><img src="../images/logo_privacy.png" alt="プライバシーマーク"></a></li>
+              </ul>
+            </div>
+            <div class="footer-copy"><small>Copyright (C) 2017 Misou System Corporation. All Rights Reserved.</small></div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    <script src="../js/jquery.js"></script>
+    <script src="../js/lib.js"></script>
+    <script src="../js/main.js"></script>
+    <script src="../js/validate_recruit.js"></script>
+  </body>
+</html>
